@@ -3,3 +3,4 @@ Then
 Hi!
 Hi!
 This is a branch check within the branchWhat branch. 
+Now I am testing merge. 
